@@ -2,13 +2,14 @@
 My personal knowledge space covering social media, AI, technology, information, ideas, experiences, and thoughts. A digital collection of things I learn, explore, create, and share.
 # Koteswararao Annabattula
 
-## Personal Knowledge Archive
+## Personal Archive
 
 This is my personal digital space for collecting and organizing information, ideas, thoughts, and learning experiences.
 
 ## About This Repository
 
-A personal journal-style collection covering:
+- My personal journal
+- Experiences 
 - Artificial Intelligence
 - Social Media
 - Technology
