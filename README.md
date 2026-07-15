@@ -12,7 +12,7 @@ This is my personal digital space for collecting and organizing information, ide
 - Digital Creativity
 - Information & Research
 - Personal Observations and ఐడియాస్
-- 
+
 ## Purpose
 To document my learning journey, store useful information, explore new ideas, and share knowledge.
 
